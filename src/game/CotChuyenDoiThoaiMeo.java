@@ -40,7 +40,7 @@ public class CotChuyenDoiThoaiMeo extends JPanel implements KeyListener{
         "Tối hôm qua, những vật thể lạ đã xuất hiện từ trên bầu trời.",
         "Chúng đã tiêu diệt nửa thành phố chỉ trong vài tiếng đồng hồ! \nNhững người bị bắt đi không rõ tung tích sống chết như thế nào!",
         "Cậu là người duy nhất trong thành phố mà chúng không thể bắt được! \nVì bên trong cậu ở một luồng sức mạnh kỳ lạ mà chúng không thể chạm tới \nCậu phải được an toàn!",
-        "Tớ cứu người thân, bạn bè của mình",
+        "Tớ muốn cứu người thân, bạn bè của mình",
         "Thôi được cậu có muốn gia nhập để tham gia chiến đấu cùng chúng tôi không?"
     };
     private ImageIcon[] characterImages = {
