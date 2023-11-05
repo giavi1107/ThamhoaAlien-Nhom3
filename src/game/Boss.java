@@ -18,7 +18,7 @@ import javax.imageio.ImageIO;
 // TƯƠNG TỰ AlienSpaceShip
 public class Boss extends Alien{
     // TƯƠNG TỰ AlienSpaceShip
-    public int heath = 1;
+    public int heath = 500;
     private ArrayList<BossBullets> bullets= new ArrayList<BossBullets>();
     int count_MoveY;
     String trangThaiDiChuyen = "";
