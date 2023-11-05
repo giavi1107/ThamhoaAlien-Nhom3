@@ -73,7 +73,7 @@ public class CotChuyenSauKhiThuNhap extends JPanel implements KeyListener{
             }
         });
         timer.start();
-        loadBackgroundMusic("src/sound/GameThuThap.wav");
+        loadBackgroundMusic("src/sound/LenTau.wav");
     }
     
     void loadBackgroundMusic(String wavFilePath) {
