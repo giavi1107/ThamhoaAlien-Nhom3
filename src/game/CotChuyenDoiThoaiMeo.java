@@ -81,7 +81,7 @@ public class CotChuyenDoiThoaiMeo extends JPanel implements KeyListener{
             }
         });
 
-        Timer timer = new Timer(10000, new ActionListener() {
+        Timer timer = new Timer(20000, new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
                 if (currentScene < characterNames.length - 1) {
